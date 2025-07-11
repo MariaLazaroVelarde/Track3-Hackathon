@@ -10,6 +10,15 @@ API para gestionar consultas de RUC con integración a la API de SUNAT y MongoDB
 - ✅ Restauración de registros eliminados
 - ✅ Listado de RUCs activos
 - ✅ Arquitectura reactiva con WebFlux
+  
+
+## Tipos
+- Comienza con 10: Personas que trabajan por cuenta propia o tienen un negocio propio sin formar una empresa.
+                   Puede emitir boletas de venta y facturas, según su régimen tributario.
+- Comienza con 20: Empresas o entidades constituidas legalmente (con Razon Social).
+                   Siempre emiten facturas y tienen representante legal.
+- Comienza con 11 (excepciones): Corresponden a antiguas formas de inscripción jurídica.
+  
 
 ## Endpoints Disponibles
 
