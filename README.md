@@ -18,11 +18,11 @@ API para gestionar consultas de RUC con integración a la API de SUNAT y MongoDB
       Puede emitir boletas de venta y facturas, según su régimen tributario.
   
 📌 **Comienza con 20:**
-      - Empresas o entidades constituidas legalmente (con Razon Social).
-      - Siempre emiten facturas y tienen representante legal.
+      Empresas o entidades constituidas legalmente (con Razon Social).
+      Siempre emiten facturas y tienen representante legal.
   
 📌 **Comienza con 11 (excepciones):**
-      - Corresponden a antiguas formas de inscripción jurídica.
+      Corresponden a antiguas formas de inscripción jurídica.
   
 
 ## Endpoints Disponibles
